@@ -3,7 +3,7 @@
   
 oomp key: oomp_acheronproject_acheron_mx_plateslots_mx_iso_enter  
   
-source repo at: [http://github.com/AcheronProject/acheron_MX_PlateSlots.pretty/blob/master/MX_ISO_Enter.kicad_mod](http://github.com/AcheronProject/acheron_MX_PlateSlots.pretty/blob/master/MX_ISO_Enter.kicad_mod)  
+source repo at: [http://github.com/AcheronProject/acheron_MX_PlateSlots.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISO_Enter.kicad_mod](http://github.com/AcheronProject/acheron_MX_PlateSlots.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISO_Enter.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,15 @@ source repo at: [http://github.com/AcheronProject/acheron_MX_PlateSlots.pretty/b
 | footprint name | MX_ISO_Enter | 
 | footprint description | None | 
 | number of pads | 0 | 
-| github path | http://github.com/AcheronProject/acheron_MX_PlateSlots.pretty/blob/master/MX_ISO_Enter.kicad_mod | 
+| github path | http://github.com/AcheronProject/acheron_MX_PlateSlots.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/MX_ISO_Enter.kicad_mod | 
 | oomp key | oomp_acheronproject_acheron_mx_plateslots_mx_iso_enter | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mx_plateslots_mx_iso_enter/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/acheronproject_acheron_mx_plateslots_mx_iso_enter/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

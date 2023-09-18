@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## SC70  by none  
+## SC70  by cvra  
   
 oomp key: oomp_cvra_std_sc70  
   
-source repo at: [http://gitlab.com/cvra/kicad-lib/blob/master/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod](http://gitlab.com/cvra/kicad-lib/blob/master/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod)  
+source repo at: [http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod](http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/cvra/kicad-lib/blob/master/footprints/_switch
 | footprint name | SC70 | 
 | footprint description | None | 
 | number of pads | 6 | 
-| github path | http://github.com/cvra/kicad-lib/blob/master/footprints/_std.pretty/SC70.kicad_mod | 
+| github path | http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_std.pretty/SC70.kicad_mod | 
 | oomp key | oomp_cvra_std_sc70 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_std_sc70/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cvra_std_sc70/working | 
 ## Images  

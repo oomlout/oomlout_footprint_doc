@@ -3,7 +3,7 @@
   
 oomp key: oomp_cpavlina_conn_2mm_conn_2mm_m_1x22_shroud  
   
-source repo at: [http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
+source repo at: [http://gitlab.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://gitlab.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pr
 | footprint name | CONN-2MM-M-1x22-SHROUD | 
 | footprint description | None | 
 | number of pads | 22 | 
-| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/conn-2mm.pretty/CONN-2MM-M-1x22-SHROUD.kicad_mod | 
+| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/conn-2mm.pretty/CONN-2MM-M-1x22-SHROUD.kicad_mod | 
 | oomp key | oomp_cpavlina_conn_2mm_conn_2mm_m_1x22_shroud | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_conn_2mm_conn_2mm_m_1x22_shroud/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cpavlina_conn_2mm_conn_2mm_m_1x22_shroud/working | 
 ## Images  

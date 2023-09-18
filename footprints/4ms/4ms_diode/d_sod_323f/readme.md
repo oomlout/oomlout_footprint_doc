@@ -3,7 +3,7 @@
   
 oomp key: oomp_4ms_4ms_diode_d_sod_323f  
   
-source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
+source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,9 +14,9 @@ source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-lega
 | footprint name | D_SOD-323F | 
 | footprint description | SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf | 
 | number of pads | 2 | 
-| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/footprints/4ms_Diode.pretty/D_SOD-323F.kicad_mod | 
+| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_Diode.pretty/D_SOD-323F.kicad_mod | 
 | oomp key | oomp_4ms_4ms_diode_d_sod_323f | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_diode_d_sod_323f/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_diode_d_sod_323f/working | 
 ## Images  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  

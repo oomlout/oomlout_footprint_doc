@@ -3,7 +3,7 @@
   
 oomp key: oomp_dragonmux_rhais_rcl_r0402_array_convex_4  
   
-source repo at: [http://gitlab.com/dragonmux/rhais_rcl.pretty/blob/master/R2512.kicad_mod](http://gitlab.com/dragonmux/rhais_rcl.pretty/blob/master/R2512.kicad_mod)  
+source repo at: [http://gitlab.com/dragonmux/rhais_rcl.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R2512.kicad_mod](http://gitlab.com/dragonmux/rhais_rcl.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R2512.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/dragonmux/rhais_rcl.pretty/blob/master/R2512.
 | footprint name | R0402_Array_Convex_4 | 
 | footprint description | Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf) | 
 | number of pads | 8 | 
-| github path | http://github.com/dragonmux/rhais_rcl.pretty/blob/master/R0402_Array_Convex_4.kicad_mod | 
+| github path | http://github.com/dragonmux/rhais_rcl.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R0402_Array_Convex_4.kicad_mod | 
 | oomp key | oomp_dragonmux_rhais_rcl_r0402_array_convex_4 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_rcl_r0402_array_convex_4/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_rcl_r0402_array_convex_4/working | 
 ## Images  

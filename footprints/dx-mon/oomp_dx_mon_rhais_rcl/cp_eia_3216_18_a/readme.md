@@ -3,7 +3,7 @@
   
 oomp key: oomp_dx_mon_rhais_rcl_cp_eia_3216_18_a  
   
-source repo at: [http://gitlab.com/DX-MON/rhais_rcl.pretty/blob/master/R2512.kicad_mod](http://gitlab.com/DX-MON/rhais_rcl.pretty/blob/master/R2512.kicad_mod)  
+source repo at: [http://gitlab.com/DX-MON/rhais_rcl.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R2512.kicad_mod](http://gitlab.com/DX-MON/rhais_rcl.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/R2512.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/DX-MON/rhais_rcl.pretty/blob/master/R2512.kic
 | footprint name | CP_EIA-3216-18_A | 
 | footprint description | Tantalum Capacitor SMD Kemet-A (3216-18 Metric) | 
 | number of pads | 2 | 
-| github path | http://github.com/DX-MON/rhais_rcl.pretty/blob/master/CP_EIA-3216-18_A.kicad_mod | 
+| github path | http://github.com/DX-MON/rhais_rcl.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/CP_EIA-3216-18_A.kicad_mod | 
 | oomp key | oomp_dx_mon_rhais_rcl_cp_eia_3216_18_a | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_rcl_cp_eia_3216_18_a/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dx_mon_rhais_rcl_cp_eia_3216_18_a/working | 
 ## Images  

@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## photon:p1  by none  
+## photon:p1  by coredump-ch  
   
 oomp key: oomp_coredump_ch_particle_photon_p1  
   
-source repo at: [http://gitlab.com/coredump-ch/particle.pretty/blob/master/spark.kicad_mod](http://gitlab.com/coredump-ch/particle.pretty/blob/master/spark.kicad_mod)  
+source repo at: [http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/spark.kicad_mod](http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/spark.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/coredump-ch/particle.pretty/blob/master/spark
 | footprint name | photon:p1 | 
 | footprint description | None | 
 | number of pads | 75 | 
-| github path | http://github.com/coredump-ch/particle.pretty/blob/master/photon_p1.kicad_mod | 
+| github path | http://github.com/coredump-ch/particle.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/photon_p1.kicad_mod | 
 | oomp key | oomp_coredump_ch_particle_photon_p1 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/coredump_ch_particle_photon_p1/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/coredump_ch_particle_photon_p1/working | 
 ## Images  

@@ -3,7 +3,7 @@
   
 oomp key: oomp_dx_mon_rhais_package_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_5x3_5mm  
   
-source repo at: [http://gitlab.com/DX-MON/rhais_package-qfn.pretty/blob/master/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod](http://gitlab.com/DX-MON/rhais_package-qfn.pretty/blob/master/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod)  
+source repo at: [http://gitlab.com/DX-MON/rhais_package-qfn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod](http://gitlab.com/DX-MON/rhais_package-qfn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/DX-MON/rhais_package-qfn.pretty/blob/master/W
 | footprint name | VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm | 
 | footprint description | VQFN, 32 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4222H.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py | 
 | number of pads | 37 | 
-| github path | http://github.com/DX-MON/rhais_package-qfn.pretty/blob/master/VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm.kicad_mod | 
+| github path | http://github.com/DX-MON/rhais_package-qfn.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm.kicad_mod | 
 | oomp key | oomp_dx_mon_rhais_package_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_5x3_5mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_package_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_5x3_5mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dx_mon_rhais_package_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_5x3_5mm/working | 
 ## Images  

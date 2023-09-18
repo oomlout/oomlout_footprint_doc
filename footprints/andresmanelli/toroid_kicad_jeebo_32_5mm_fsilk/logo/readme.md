@@ -3,7 +3,7 @@
   
 oomp key: oomp_andresmanelli_toroid_kicad_logo_jeebo_32_5mm_fsilk  
   
-source repo at: [http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/XT60.kicad_mod](http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/XT60.kicad_mod)  
+source repo at: [http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod](http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XT60.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master
 | footprint name | LOGO | 
 | footprint description | None | 
 | number of pads | 0 | 
-| github path | http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/Logo_Jeebo_32_5mm_FSilk.kicad_mod | 
+| github path | http://github.com/andresmanelli/TOROID-KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Logo_Jeebo_32_5mm_FSilk.kicad_mod | 
 | oomp key | oomp_andresmanelli_toroid_kicad_logo_jeebo_32_5mm_fsilk | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andresmanelli_toroid_kicad_logo_jeebo_32_5mm_fsilk/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/andresmanelli_toroid_kicad_logo_jeebo_32_5mm_fsilk/working | 
 ## Images  

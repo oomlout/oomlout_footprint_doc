@@ -3,7 +3,7 @@
   
 oomp key: oomp_dragonmux_rhais_usb_usb_3_1_type_c_in_pcb  
   
-source repo at: [http://gitlab.com/dragonmux/rhais_usb.pretty/blob/master/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod](http://gitlab.com/dragonmux/rhais_usb.pretty/blob/master/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod)  
+source repo at: [http://gitlab.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod](http://gitlab.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/dragonmux/rhais_usb.pretty/blob/master/USB_C_
 | footprint name | USB-3.1-Type-C_In-PCB | 
 | footprint description | None | 
 | number of pads | 30 | 
-| github path | http://github.com/dragonmux/rhais_usb.pretty/blob/master/USB-3.1-Type-C_In-PCB.kicad_mod | 
+| github path | http://github.com/dragonmux/rhais_usb.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USB-3.1-Type-C_In-PCB.kicad_mod | 
 | oomp key | oomp_dragonmux_rhais_usb_usb_3_1_type_c_in_pcb | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dragonmux_rhais_usb_usb_3_1_type_c_in_pcb/working | 
 ## Images  

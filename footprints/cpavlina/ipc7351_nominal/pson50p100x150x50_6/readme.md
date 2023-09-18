@@ -3,7 +3,7 @@
   
 oomp key: oomp_cpavlina_ipc7351_nominal_pson50p100x150x50_6  
   
-source repo at: [http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
+source repo at: [http://gitlab.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod](http://gitlab.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pr
 | footprint name | PSON50P100X150X50-6 | 
 | footprint description | PSON,0.50mm pitch;6 pin,1.05mm W X 1.50mm L X 0.50mm H body (pullback leads) | 
 | number of pads | 6 | 
-| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/IPC7351-Nominal.pretty/PSON50P100X150X50-6.kicad_mod | 
+| github path | http://github.com/cpavlina/kicad-pcblib/blob/master/tmp/data//oomlout_oomp_footprint_src/IPC7351-Nominal.pretty/PSON50P100X150X50-6.kicad_mod | 
 | oomp key | oomp_cpavlina_ipc7351_nominal_pson50p100x150x50_6 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_nominal_pson50p100x150x50_6/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cpavlina_ipc7351_nominal_pson50p100x150x50_6/working | 
 ## Images  

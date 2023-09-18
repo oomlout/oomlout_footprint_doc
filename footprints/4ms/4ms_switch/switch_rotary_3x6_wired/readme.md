@@ -3,7 +3,7 @@
   
 oomp key: oomp_4ms_4ms_switch_switch_rotary_3x6_wired  
   
-source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
+source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod](http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,15 @@ source repo at: [http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-lega
 | footprint name | Switch_Rotary_3x6_Wired | 
 | footprint description | Through hole straight pin header, 2x03, 2.54mm pitch, double rows | 
 | number of pads | 21 | 
-| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/footprints/4ms_Switch.pretty/Switch_Rotary_3x6_Wired.kicad_mod | 
+| github path | http://github.com/4ms/4ms-kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_Switch.pretty/Switch_Rotary_3x6_Wired.kicad_mod | 
 | oomp key | oomp_4ms_4ms_switch_switch_rotary_3x6_wired | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_switch_switch_rotary_3x6_wired/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/4ms_4ms_switch_switch_rotary_3x6_wired/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

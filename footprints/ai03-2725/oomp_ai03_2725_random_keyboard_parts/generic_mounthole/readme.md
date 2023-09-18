@@ -3,7 +3,7 @@
   
 oomp key: oomp_ai03_2725_random_keyboard_parts_generic_mounthole  
   
-source repo at: [http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/USON-TPDxE05U06.kicad_mod](http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/USON-TPDxE05U06.kicad_mod)  
+source repo at: [http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USON-TPDxE05U06.kicad_mod](http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/USON-TPDxE05U06.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,15 @@ source repo at: [http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/m
 | footprint name | Generic-Mounthole | 
 | footprint description | None | 
 | number of pads | 1 | 
-| github path | http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/Generic-Mounthole.kicad_mod | 
+| github path | http://github.com/ai03-2725/random-keyboard-parts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Generic-Mounthole.kicad_mod | 
 | oomp key | oomp_ai03_2725_random_keyboard_parts_generic_mounthole | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_random_keyboard_parts_generic_mounthole/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/ai03_2725_random_keyboard_parts_generic_mounthole/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  
+  
+[![working_kicad_pcb_3d.png](working_kicad_pcb_3d_140.png)](working_kicad_pcb_3d.png)  
+  
+[![working_kicad_pcb_3d_back.png](working_kicad_pcb_3d_back_140.png)](working_kicad_pcb_3d_back.png)  
+  
+[![working_kicad_pcb_3d_front.png](working_kicad_pcb_3d_front_140.png)](working_kicad_pcb_3d_front.png)  

@@ -3,7 +3,7 @@
   
 oomp key: oomp_digikey_digikey_footprints_jumper_micro_miniature_p5_375mm  
   
-source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
+source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://gitlab.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/src
 | footprint name | Jumper_Micro-Miniature_P5.375mm | 
 | footprint description | file:///C:/Users/chad_rosencrans/Downloads/5102.pdf | 
 | number of pads | 2 | 
-| github path | http://github.com/digikey/digikey-kicad-library/blob/master/digikey-footprints.pretty/Jumper_Micro-Miniature_P5.375mm.kicad_mod | 
+| github path | http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/digikey-footprints.pretty/Jumper_Micro-Miniature_P5.375mm.kicad_mod | 
 | oomp key | oomp_digikey_digikey_footprints_jumper_micro_miniature_p5_375mm | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_digikey_footprints_jumper_micro_miniature_p5_375mm/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/digikey_digikey_footprints_jumper_micro_miniature_p5_375mm/working | 
 ## Images  

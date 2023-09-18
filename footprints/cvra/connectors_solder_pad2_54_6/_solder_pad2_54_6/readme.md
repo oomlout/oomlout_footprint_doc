@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## _Solder_Pad2.54_6  by none  
+## _Solder_Pad2.54_6  by cvra  
   
 oomp key: oomp_cvra_connectors_solder_pad2_54_6  
   
-source repo at: [http://gitlab.com/cvra/kicad-lib/blob/master/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod](http://gitlab.com/cvra/kicad-lib/blob/master/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod)  
+source repo at: [http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod](http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/cvra/kicad-lib/blob/master/footprints/_switch
 | footprint name | _Solder_Pad2.54_6 | 
 | footprint description | None | 
 | number of pads | 6 | 
-| github path | http://github.com/cvra/kicad-lib/blob/master/footprints/_connectors.pretty/_Solder_Pad2.54_6.kicad_mod | 
+| github path | http://github.com/cvra/kicad-lib/blob/master/tmp/data//oomlout_oomp_footprint_src/footprints/_connectors.pretty/_Solder_Pad2.54_6.kicad_mod | 
 | oomp key | oomp_cvra_connectors_solder_pad2_54_6 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_connectors_solder_pad2_54_6/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cvra_connectors_solder_pad2_54_6/working | 
 ## Images  

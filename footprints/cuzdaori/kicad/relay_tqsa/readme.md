@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## RELAY_TQSA  by none  
+## RELAY_TQSA  by cuzdaori  
   
 oomp key: oomp_cuzdaori_kicad_relay_tqsa  
   
-source repo at: [http://gitlab.com/cuzdaori/KiCad.pretty/blob/master/XTAL_7X5MM.kicad_mod](http://gitlab.com/cuzdaori/KiCad.pretty/blob/master/XTAL_7X5MM.kicad_mod)  
+source repo at: [http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod](http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/XTAL_7X5MM.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/cuzdaori/KiCad.pretty/blob/master/XTAL_7X5MM.
 | footprint name | RELAY_TQSA | 
 | footprint description | None | 
 | number of pads | 10 | 
-| github path | http://github.com/cuzdaori/KiCad.pretty/blob/master/RELAY_TQSA.kicad_mod | 
+| github path | http://github.com/cuzdaori/KiCad.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/RELAY_TQSA.kicad_mod | 
 | oomp key | oomp_cuzdaori_kicad_relay_tqsa | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cuzdaori_kicad_relay_tqsa/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/cuzdaori_kicad_relay_tqsa/working | 
 ## Images  

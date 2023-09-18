@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## diypinball-logo-small  by none  
+## diypinball-logo-small  by diypinball  
   
 oomp key: oomp_diypinball_pinballparts_diypinball_logo_small  
   
-source repo at: [http://gitlab.com/diypinball/PinballParts.pretty/blob/master/SOLENOID-CONNECTOR-V.kicad_mod](http://gitlab.com/diypinball/PinballParts.pretty/blob/master/SOLENOID-CONNECTOR-V.kicad_mod)  
+source repo at: [http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod](http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOLENOID-CONNECTOR-V.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/diypinball/PinballParts.pretty/blob/master/SO
 | footprint name | diypinball-logo-small | 
 | footprint description | None | 
 | number of pads | 0 | 
-| github path | http://github.com/diypinball/PinballParts.pretty/blob/master/diypinball-logo-small.kicad_mod | 
+| github path | http://github.com/diypinball/PinballParts.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/diypinball-logo-small.kicad_mod | 
 | oomp key | oomp_diypinball_pinballparts_diypinball_logo_small | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/diypinball_pinballparts_diypinball_logo_small/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/diypinball_pinballparts_diypinball_logo_small/working | 
 ## Images  

@@ -3,7 +3,7 @@
   
 oomp key: oomp_digikey_usb_micro_b_female_10118192_usb_micro_b_female_10118192  
   
-source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://gitlab.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
+source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod](http://gitlab.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/digikey/digikey-kicad-library/blob/master/src
 | footprint name | USB_Micro_B_Female_10118192 | 
 | footprint description | http://portal.fciconnect.com/Comergent//fci/drawing/10118192.pdf | 
 | number of pads | 11 | 
-| github path | http://github.com/digikey/digikey-kicad-library/blob/master/src/Source_Footprints/USB_Micro_B_Female_10118192.kicad_mod | 
+| github path | http://github.com/digikey/digikey-kicad-library/blob/master/tmp/data//oomlout_oomp_footprint_src/src/Source_Footprints/USB_Micro_B_Female_10118192.kicad_mod | 
 | oomp key | oomp_digikey_usb_micro_b_female_10118192_usb_micro_b_female_10118192 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/digikey_usb_micro_b_female_10118192_usb_micro_b_female_10118192/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/digikey_usb_micro_b_female_10118192_usb_micro_b_female_10118192/working | 
 ## Images  

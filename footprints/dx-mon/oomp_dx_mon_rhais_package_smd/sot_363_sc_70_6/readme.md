@@ -3,7 +3,7 @@
   
 oomp key: oomp_dx_mon_rhais_package_smd_sot_363_sc_70_6  
   
-source repo at: [http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/SSOP-28_5.3x10.2mm_P0.65mm.kicad_mod](http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/SSOP-28_5.3x10.2mm_P0.65mm.kicad_mod)  
+source repo at: [http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SSOP-28_5.3x10.2mm_P0.65mm.kicad_mod](http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SSOP-28_5.3x10.2mm_P0.65mm.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/DX-MON/rhais_package-smd.pretty/blob/master/S
 | footprint name | SOT-363_SC-70-6 | 
 | footprint description | SOT-363, SC-70-6 | 
 | number of pads | 6 | 
-| github path | http://github.com/DX-MON/rhais_package-smd.pretty/blob/master/SOT-363_SC-70-6.kicad_mod | 
+| github path | http://github.com/DX-MON/rhais_package-smd.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SOT-363_SC-70-6.kicad_mod | 
 | oomp key | oomp_dx_mon_rhais_package_smd_sot_363_sc_70_6 | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/dx_mon_rhais_package_smd_sot_363_sc_70_6/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/dx_mon_rhais_package_smd_sot_363_sc_70_6/working | 
 ## Images  

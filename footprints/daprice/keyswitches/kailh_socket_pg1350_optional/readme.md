@@ -1,9 +1,9 @@
 # OOMP Footprint  
-## Kailh_socket_PG1350_optional  by none  
+## Kailh_socket_PG1350_optional  by daprice  
   
 oomp key: oomp_daprice_keyswitches_kailh_socket_pg1350_optional  
   
-source repo at: [http://gitlab.com/daprice/keyswitches.pretty/blob/master/SW_PG1350_reversible_rotatable.kicad_mod](http://gitlab.com/daprice/keyswitches.pretty/blob/master/SW_PG1350_reversible_rotatable.kicad_mod)  
+source repo at: [http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod](http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/SW_PG1350_reversible_rotatable.kicad_mod)  
 ## Footprint  
   
 [![working_kicad_pcb_3d.png](working_kicad_pcb_3d_600.png)](working_kicad_pcb_3d.png)  
@@ -14,7 +14,7 @@ source repo at: [http://gitlab.com/daprice/keyswitches.pretty/blob/master/SW_PG1
 | footprint name | Kailh_socket_PG1350_optional | 
 | footprint description | Kailh "Choc" PG1350 keyswitch with optional socket mount | 
 | number of pads | 9 | 
-| github path | http://github.com/daprice/keyswitches.pretty/blob/master/Kailh_socket_PG1350_optional.kicad_mod | 
+| github path | http://github.com/daprice/keyswitches.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/Kailh_socket_PG1350_optional.kicad_mod | 
 | oomp key | oomp_daprice_keyswitches_kailh_socket_pg1350_optional | 
-| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/daprice_keyswitches_kailh_socket_pg1350_optional/working | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/daprice_keyswitches_kailh_socket_pg1350_optional/working | 
 ## Images  
